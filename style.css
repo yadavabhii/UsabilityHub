@@ -991,6 +991,7 @@ footer {
         .footer-section-head {
             flex-direction: column;
             gap: 30px;
+            text-align: center;
         }
 
         .sub-footer-buttom {
